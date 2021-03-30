@@ -20,7 +20,7 @@
 
 #### 📱 Let's talk
 
-I'm opend for new challenges - if you're looking for a dynamic, hard-working, fast-learning and not-afraid-of-challenges person to join your team, do not hesitate to contact me [@linkedin](https://www.linkedin.com/in/marcjanna-stopinska/) or [@twitter](https://twitter.com/marcjanna_s)
+I'm opened for new challenges - if you're looking for a dynamic, hard-working, fast-learning and not-afraid-of-challenges person to join your team, do not hesitate to contact me [@linkedin](https://www.linkedin.com/in/marcjanna-stopinska/) or [@twitter](https://twitter.com/marcjanna_s)
 
 
 
