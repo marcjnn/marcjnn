@@ -11,7 +11,7 @@
 
 `featured` [WRKST](https://github.com/marcjnn/wrkst) - my current project built with `Vue.js` - a SPA where teachers can create personalised materials for their students. You can checkout the project [here](https://github.com/marcjnn/wrkst).
 
-#### Other projects you mind find interesting:
+#### Other projects you might find interesting:
 ♕ Rick & Morty - [code](https://github.com/marcjnn/modulo-3-evaluacion-final-marcjnn) / [www](http://beta.adalab.es/modulo-3-evaluacion-final-marcjnn/#/) - a webapp made built from scratch with `React.js` using functional components, hooks, async functions to fetch data from API and with fully responsive design based on grid & flex-box
 
 ♕ Ultimate Series Browser - [code](https://github.com/marcjnn/modulo-2-evaluacion-final-marcjnn) / [www](http://beta.adalab.es/modulo-2-evaluacion-final-marcjnn/) - this project is all about `JavaScript`, a great example of how I structure my code and principles I try to follow
