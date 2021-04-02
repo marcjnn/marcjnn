@@ -16,7 +16,7 @@
 
 ♕ Ultimate Series Browser - [code](https://github.com/marcjnn/ultimate-series-browser) / [www](https://marcjnn.github.io/ultimate-series-browser/) - this project is all about `JavaScript`, a great example of how I structure my code and principles I try to follow
 
-♕ Awesome Cards - [code](https://github.com/marcjnn/project-promo-l-module-3-team-7) / [www](https://awesome-profile-cards-team-7.herokuapp.com/#/) - generator of online business cards built with `React.js`, `Node.js` and `API REST` by the Awesome Reacters team
+♕ Avocado Business Cards - [code](https://github.com/marcjnn/avocado-business-cards) / [www](https://avocado-business-cards.herokuapp.com/#/) - generator of online business cards built with `React.js`, `Node.js` and `API REST` by the Awesome Reacters team
 
 #### 📱 Let's talk
 
