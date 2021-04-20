@@ -9,7 +9,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-%234254a5?logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-%234254a5?logo=SASS&logoColor=white)
 
-`featured` [WRKST](https://github.com/marcjnn/wrkst) - my current project built with `Vue.js` - a SPA where teachers can create personalised materials for their students. You can checkout the project [here](https://github.com/marcjnn/wrkst).
+`featured` [Suen Learning](https://github.com/suenlearning/suenlearning) - my current project built with `Vue.js` - a SPA where teachers can create personalised materials for their students. You can checkout the project here: [code](https://github.com/suenlearning/suenlearning) / [www](https://suenlearning.github.io/)
 
 #### Other projects you might find interesting:
 ♕ Rick & Morty - [code](https://github.com/marcjnn/rick-and-morty-browser) / [www](https://marcjnn.github.io/rick-and-morty-browser/#/) - a webapp built from scratch with `React.js` using functional components, hooks, async functions to fetch data from API and with a fully responsive design based on grid & flex-box
